@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/btn_get_start_bg"/>
+
+    <size android:height="@dimen/btn_get_start_height"
+        android:width="@dimen/btn_get_start_width"/>
+
+    <corners android:radius="@dimen/btn_get_start_radius"/>
+
+</shape>

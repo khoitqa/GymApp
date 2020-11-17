@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Get start fragment-->
+    <dimen name="btn_get_start_height">51dp</dimen>
+    <dimen name="btn_get_start_width">174dp</dimen>
+    <dimen name="btn_get_start_radius">5dp</dimen>
+    <dimen name="btn_get_start_margin_bot">61dp</dimen>
+    <dimen name="btn_get_start_margin_left">26dp</dimen>
+    <dimen name="btn_get_start_textsize">16sp</dimen>
+
+    <dimen name="title_get_start_width">300dp</dimen>
+    <dimen name="title_get_start_textsize">37sp</dimen>
+    <dimen name="title_get_start_margin_left">23dp</dimen>
+
+    <dimen name="content_get_start_width">350dp</dimen>
+    <dimen name="content_get_start_textsize">18dp</dimen>
+    <dimen name="content_get_start_margin_bot">37dp</dimen>
+    <dimen name="content_get_start_margin_left">25dp</dimen>
+    <dimen name="content_get_start_margin_left2">28dp</dimen>
+
+    <!--    Start fragment-->
+    <dimen name="title_start_textsize">37sp</dimen>
+    <dimen name="title_start_margin_bot">58dp</dimen>
+
+    <dimen name="ly_start_margin_left">27dp</dimen>
+    <dimen name="ly_start_margin_bot">66dp</dimen>
+    <dimen name="ly_start_margin_right">27dp</dimen>
+
+    <dimen name="ic_circle_margin_top">18dp</dimen>
+    <dimen name="ic_triangle_margin_right">17dp</dimen>
+    <dimen name="ic_triangle_margin_top">36dp</dimen>
+
+    <dimen name="btn_start_height">43dp</dimen>
+    <dimen name="btn_start_width">114dp</dimen>
+    <dimen name="btn_start_radius">5dp</dimen>
+
+    <dimen name="btn_textsize">16dp</dimen>
+    <dimen name="btn_login_margin_left">6dp</dimen>
+
+    <!--    Start fragment-->
+    <dimen name="form_signup_topleft_radius">38dp</dimen>
+    <dimen name="form_signup_margin_top">285dp</dimen>
+    <dimen name="form_signup_margin_left_item">46dp</dimen>
+    <dimen name="form_signup_margin_right_item">74dp</dimen>
+    <dimen name="line_edit_text_width">1dp</dimen>
+    <dimen name="form_item_height">33dp</dimen>
+    <dimen name="form_item_distance">26dp</dimen>
+
+    <dimen name="title_create_textsize">25dp</dimen>
+    <dimen name="title_create_margin_top">32dp</dimen>
+    <dimen name="title_create_margin_left">44dp</dimen>
+    <dimen name="title_create_margin_bot">60dp</dimen>
+
+    <dimen name="ic_form_bg_height">29dp</dimen>
+    <dimen name="ic_form_bg_width">26dp</dimen>
+    <dimen name="ic_form_margin_right">25dp</dimen>
+    <dimen name="ic_form_margin_top">5dp</dimen>
+
+    <dimen name="name_textsize">10dp</dimen>
+    <dimen name="name_edit_textsize">8dp</dimen>
+    <dimen name="name_edit_pass_textsize">16dp</dimen>
+    <dimen name="name_edit_height">16dp</dimen>
+
+    <dimen name="radius_5dp">5dp</dimen>
+    <dimen name="radius_15dp">15dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="dimen3dp">3dp</dimen>
+    <dimen name="txtsize_12sp">12sp</dimen>
+
+
+    <dimen name="btn_long_signup_height">44dp</dimen>
+    <dimen name="btn_long_signup_width">317dp</dimen>
+    <dimen name="btn_long_signup_margin_top">46dp</dimen>
+    <dimen name="text_size_14dp">14dp</dimen>
+
+    <dimen name="txt_create_login_bot">20dp</dimen>
+    <dimen name="txt_create_login_right">23dp</dimen>
+    <dimen name="btn_create_login_height">31dp</dimen>
+    <dimen name="btn_create_login_width">92dp</dimen>
+    <dimen name="line_border_bg_login">0.5dp</dimen>
+
+    <dimen name="title_welcome_textsize">25dp</dimen>
+    <dimen name="title_welcome_margin_top">29dp</dimen>
+    <dimen name="title_welcome_margin_left">34dp</dimen>
+    <dimen name="txt_signin_margin_left">36dp</dimen>
+    <dimen name="txt_signin_margin_bot">33dp</dimen>
+
+    <!--    Home fragment-->
+
+    <dimen name="tb_margin_top">31dp</dimen>
+    <dimen name="tb_padding_left">26dp</dimen>
+    <dimen name="tb_padding_right">18dp</dimen>
+
+    <dimen name="txt_size_home">12sp</dimen>
+    <dimen name="ic_dot_margin_left">15.22dp</dimen>
+    <dimen name="ic_dot_margin_top">3.35dp</dimen>
+
+    <dimen name="bg_home_banner_height">201dp</dimen>
+    <dimen name="bg_home_banner_width">357dp</dimen>
+    <dimen name="txt_feature_size">24sp</dimen>
+    <dimen name="txt_feature_margin_left">29dp</dimen>
+    <dimen name="txt_feature_margin_top">60dp</dimen>
+    <dimen name="txt_feature_margin_bot">21dp</dimen>
+    <dimen name="radius_6dp">6dp</dimen>
+    <dimen name="btn_free_width">87dp</dimen>
+    <dimen name="btn_free_height">33dp</dimen>
+    <dimen name="txt_size_btn_free">12sp</dimen>
+    <dimen name="btn_free_margin_left">37dp</dimen>
+    <dimen name="btn_free_margin_top">26dp</dimen>
+    <dimen name="txtsize_24sp">24sp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+    <dimen name="dimen_150dp">150dp</dimen>
+    <dimen name="dimen_33dp">33dp</dimen>
+    <dimen name="dimen_16sp">16sp</dimen>
+    <dimen name="dimen_9dp">9dp</dimen>
+    <dimen name="dimen_27dp">27dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="radius_10dp">10dp</dimen>
+    <dimen name="dimen_23dp">23dp</dimen>
+    <dimen name="dimen_39dp">39dp</dimen>
+    <dimen name="dimen_31dp">31dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="dimen_63dp">63dp</dimen>
+    <dimen name="dimen_25dp">25dp</dimen>
+    <dimen name="dimen_45dp">45dp</dimen>
+    <dimen name="dimen_30dp">30dp</dimen>
+    <dimen name="dimen_17dp">17dp</dimen>
+    <dimen name="dimen_35dp">35dp</dimen>
+    <dimen name="dimen_29dp">29dp</dimen>
+    <dimen name="dimen_7dp">7dp</dimen>
+    <dimen name="dimen_78dp">78dp</dimen>
+    <dimen name="dimen_385dp">385dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_90dp">90dp</dimen>
+    <dimen name="dimen_167dp">167dp</dimen>
+    <dimen name="dimen_193dp">193dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+    <dimen name="dimen_37dp">37dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+
+
+</resources>

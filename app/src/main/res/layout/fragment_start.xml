@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_start"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".View.Fragment.StartFragment">
+
+
+
+    <LinearLayout
+        android:gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/ly_start_margin_left"
+        android:layout_marginBottom="@dimen/ly_start_margin_bot"
+        android:layout_marginRight="@dimen/ly_start_margin_right"
+
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/title_start_margin_bot">
+            <TextView
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/title_start_fragment"
+                android:textSize="@dimen/title_start_textsize"
+                android:layout_toLeftOf="@+id/ic_play"
+                android:textColor="@color/white"/>
+            <ImageView
+                android:id="@+id/ic_play"
+                android:src="@drawable/ic_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="@dimen/ic_circle_margin_top"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/btn_login_margin_left"
+                android:textSize="@dimen/btn_textsize"
+                android:text="@string/login"
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:background="@drawable/btn_start_login_bg"/>
+
+            <Button
+                android:id="@+id/btn_sign_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/signup"
+                android:textAllCaps="false"
+                android:textSize="@dimen/btn_textsize"
+                android:layout_alignParentRight="true"
+                android:textColor="@color/black"
+                android:background="@drawable/btn_start_signup_bg"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

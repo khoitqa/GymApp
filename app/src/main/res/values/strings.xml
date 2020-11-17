@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">GymApp</string>
+
+    <!-- Get start fragment-->
+    <string name="get_start">Get Start</string>
+    <string name="content_get_start_fragment">High-intensity training: anytime &amp; anywhere.</string>
+    <string name="content_get_start_fragment2">Start Training Today.</string>
+
+    <string name="title_get_start">Make Your Body For Summer</string>
+
+    <!-- Start fragment-->
+    <string name="title_start_fragment">Make Your Body For Summer</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+
+    <!-- Sign up fragment-->
+    <string name="create_an_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="name_default">Borkat ulla</string>
+    <string name="email">Email</string>
+    <string name="email_default">Borkat.atisyl@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="password_default">● ● ● ● ● ●</string>
+
+    <!-- Login fragment-->
+    <string name="welcome">Welcome Back!</string>
+    <string name="signin_ur_acc">Sign in with your Account.</string>
+    <string name="forgot_pass">Forgot Password?</string>
+
+    <!--    Home fragment-->
+    <string name="home">Home</string>
+    <string name="feature_workouts">Feature Workouts</string>
+    <string name="free">Free</string>
+    <string name="whole_body">Whole Body Workout</string>
+    <string name="bannertime50min">50 min</string>
+    <string name="level">Level</string>
+    <string name="plantset">Plan set</string>
+    <string name="seemore">See More +</string>
+
+
+</resources>
